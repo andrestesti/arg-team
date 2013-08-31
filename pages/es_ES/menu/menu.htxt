@@ -3,7 +3,7 @@
         <a id="menuInicio" class="menu-item current-menu" href="javascript:void(0);">Inicio</a>
     </td>
     <td style="width:20%" >
-        <a id="menuConsultores" class="menu-item" href="javascript:void(0);">Consultores</a>
+        <a id="menuConsultores" class="menu-item" href="javascript:void(0);">Trabajos</a>
     </td>
     <td id="columnServiciosProductos" style="width:35%">
         <a id="menuServiciosProductos" class="menu-item" href="javascript:void(0);">Servicios &amp; Productos</a>
