@@ -1,0 +1,37 @@
+<div id="slider-contents">
+
+    <div id="contact" class="page" images="contacto-img">
+       <form action="javascript:contactSendMail()">
+
+       <!-- <form action="mailto:contact@arg-team.com"> -->
+
+            <p>
+		Name and Surname:<br/>
+                <input id="name" name="name" type="text" class="input-text grey"/>
+            </p>
+
+            <p>
+		Email Address:<br/>
+                <input id="email" name="email" type="text" class="input-text grey"/>
+            </p>
+
+            <p>
+		Subject:<br/>
+                <input id="subject" name="subject" type="text" class="input-text grey"/>
+            </p>
+
+            <p>
+		Message:<br/>
+                <textarea id="body" name="body" class="grey"/>
+            </p>
+
+
+            <div id="buttons" class="box">
+                <span id="validacion"></span>
+                <input id="enviar"  type="submit" value="Send"/>
+            </div>
+
+            <img id="working" src="img/pepito.gif"/>
+        </form>
+    </div>
+</div>

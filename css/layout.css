@@ -1,0 +1,249 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Tahoma, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+body {
+    height: 100%;
+    background: #d4dfe7;
+}
+
+#dark-bg {
+    width: 100%;
+    height: 200px;
+    background: #96b0c0;
+}
+
+/* HEADER ------------------------------------------------------------------ */
+
+#header {
+    position:			absolute;
+    left:				50%;
+    top:				0;
+    margin-top:			10px;
+    margin-left:		-495px;
+    width:			990px;
+    height:			190px;
+    background:			url(../img/header-left-shadow.png) 0 0 no-repeat;
+}
+
+#header #header-1 {
+    width: 100%;
+    height: 100%;
+    background:	url(../img/header-top-shadow.png) 20px 0 no-repeat;
+}
+
+#header #header-2 {
+    width: 100%;
+    height: 100%;
+    background: url(../img/header-right-shadow.png) 100% 0 no-repeat;
+}
+
+#header #header-3 {
+    width:			100%;
+    height:			170px;
+    padding:			20px 0 0 0;
+}
+
+#title {
+    display:			inline;
+    position:			relative;
+    float:			left;
+    height:			170px;
+    width:			500px;
+    margin-left:		20px;
+    text-align:			center;
+    background:			url(../img/header-title-bg.png) 0 0 repeat-x;
+    /*	display:			inline;*/
+}
+
+#title img {
+    position: relative;
+    top: 50%;
+    margin-top:	-34px;
+}
+
+#menu {
+    position: relative;
+    float: right;
+    height: 170px;
+    width: 450px;
+    margin-right: 20px;
+    text-align:	center;
+    background:	url(../img/header-menu-bg.png) repeat-x;
+    display: inline;
+}
+
+#menu #world {
+    position: relative;
+    top: 13px;
+    /*	margin-top:			-72px;*/
+}
+
+#menu-shadow {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 20px;
+    height: 170px;
+    background:	url(../img/header-menu-shadow.png) no-repeat;
+}
+
+#main-menu {
+    position: absolute;
+    width: 450px;
+    height: 35px;
+    left: 0;
+    top: 100%;
+    margin-top: -35px;
+    text-align:	center;
+    background-color: #D4DFE7;
+}
+
+#main-menu a {
+    font-size:13px;
+    /*text-decoration:		none;
+	noFocusLine:		expression(this.onFocus=this.blur());    /* IE */
+    -moz-outline-style:	none;                                    /* FF */
+}
+
+.menu-item {
+    text-decoration: none;
+    color: #9A9DA1;
+}
+
+.current-menu {
+    text-decoration: none;
+    color: #1445A0;
+    font-weight: bold;
+}
+
+#locales {
+    position: absolute;
+    right: 0;
+    top: 0;
+    border-spacing: 0;
+}
+
+#locales td {
+    padding: 2px 4px 3px 7px;
+    border-bottom: 1px solid #ccc;
+}
+
+#locales a {
+    color: #999;
+    font-size: 12px;
+    text-decoration: none;
+    /*	noFocusLine:		expression(this.onFocus=this.blur());    /* IE */
+    -moz-outline-style:	none;                                    /* FF */
+}
+
+/* CONTENTS ---------------------------------------------------------------- */
+
+#contents {
+    position: relative;
+    left: 50%;
+    top: 0;
+    margin-left: -495px;
+    width: 990px;
+    height: 454px;
+    background:	url(../img/contents.png) 0 0 repeat-y;
+    overflow: hidden;
+}
+
+#contents-top-shadow {
+    position: relative;
+    top: 0;
+    left: 20px;
+    width: 950px;
+    height: 15px;
+    background:	url(../img/contents-top-shadow.png) 0 0 repeat-x;
+    z-index: 100;
+}
+
+#contents-bottom-shadow {
+    position: relative;
+    left: 20px;
+    width: 950px;
+    height: 15px;
+    background:	url(../img/contents-bottom-shadow.png) 0 100% repeat-x;
+    z-index: 100;
+}
+
+#contents-wrap {
+    position: relative;
+    left: 20px;
+    width: 950px;
+    height: 424px;
+    overflow: hidden;
+}
+
+#images {
+    float: left;
+    width: 500px;
+    display: inline;
+    z-index: 5;
+    overflow: hidden;
+    text-align: center;
+}
+
+#main-text {
+    float: right;
+    width: 450px;
+    height: 424px;
+    display: inline;
+    overflow: hidden;
+}
+
+* html #main-text { /* HACK PARA IE que raro no? */
+                    width: 450px;
+                    height: 424px;
+}
+
+/* FOOTER ------------------------------------------------------------------ */
+
+#footer {
+    position: relative;
+    left: 50%;
+    top: 0;
+    margin-left: -495px;
+    width: 990px;
+    height: 55px;
+    background:	url(../img/footer-contents.png) 0 0 repeat-x;
+}
+
+#footer #footer-1 {
+    height: 55px;
+    background: url(../img/footer-left.png) 0 0 no-repeat;
+}
+
+#footer #footer-2 {
+    height: 25px;
+    padding: 10px 20px 20px 20px;
+    text-align: center;
+    font-size: 12px;
+    background: url(../img/footer-right.png) 100% 0 no-repeat;
+    color: #D4EFE7;
+}
+
+#images table {
+    background:     #ddd;
+    border-spacing: 1px;
+}
+
+#images td {
+    background:	#f5f5f5;
+    width:	33%;
+    height:	33%;
+}
+
+#submenu-panel {
+    position:			absolute;
+    left:				0;
+    top:				0;
+    width:			100%px;
+    height:			300px;
+    z-index:			200;
+}

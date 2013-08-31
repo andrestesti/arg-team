@@ -1,0 +1,126 @@
+#slider-contents {
+ position:    relative;
+ width:    100%;
+
+}
+
+#slider-contents .page {
+ color:    #333333;
+ text-align:    justify;
+ line-height:   21px;
+
+}
+
+#slider-contents .page h1 {
+ color:    #303545;
+ margin:    5px 0 5px 0;
+ border-bottom:   1px solid #FF9900;
+        font-size: 11px;
+
+}
+
+#slider-contents .page p {
+ margin-bottom:   15px;
+        font-size: 11px;
+}
+
+#slider-contents .slider-controls {
+ position:    absolute;
+ top:     396px;
+ left:     15px;
+ width:    399px;
+/* height:    26px;*/
+ background:    #eee;
+ border:    1px solid #ccc;
+ padding:    5px 10px 7px 10px;
+ text-align:    center;
+}
+
+* html #slider-contents .slider-controls {
+ width:    415px;
+}
+
+#slider-contents .slider-controls a {
+ color:    #555;
+ font-size:    11px;
+ text-decoration:   none;
+ noFocusLine:   expression(this.onFocus=this.blur());    /* IE */
+ -moz-outline-style:  none;                                    /* FF */
+}
+
+#slider-contents .slider-controls .back {
+ float:    left;
+}
+
+#slider-contents .slider-controls .next {
+ float:    right;
+}
+
+#slider-contents #page-counter {
+ float:    left;
+ width:    239px;
+ color:    #f90;
+ font-size:    11px;
+}
+
+#contact {
+ position:    relative;
+ margin:    10px 20px;
+}
+
+#contact textarea {
+ width:    100%;
+ height:    195px;
+}
+
+#contact p {
+ font-size:    12px;
+ margin-bottom:   7px;
+}
+
+#contact p .input-text {
+ width:    100%;
+ height:    20px;
+}
+
+#contact .box {
+ background:    #eee;
+ border:    1px solid #ccc;
+}
+
+#contact #buttons {
+ position:    relative;
+ margin-top:    26px;
+ padding:    2px;
+}
+
+* html #contact #buttons {
+ margin-top:    16px;
+}
+
+#contact #buttons input {
+ position:    relative;
+ left:     340px;
+ width:    64px;
+}
+
+.error {
+ background:    #fff0e8;
+ color:    #900;
+ border:    1px solid #a00;
+}
+
+.orange {
+ border:    1px solid #f90;
+}
+
+.grey {
+ border:    1px solid #999;
+}
+
+#working {
+ position:    absolute;
+ left:     172px;
+ top:     162px;
+ display:    none;
+}

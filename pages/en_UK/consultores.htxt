@@ -1,0 +1,96 @@
+<div id="slider-contents">
+
+    <div class="page" images="epaulon-img">
+        <h1>Ezequiel Paul&oacute;n</h1>
+        <ul style="padding-left:15px;">
+
+            <li>200 International Matches with Argentina Nacional Team</li>
+            <li>2 Olympic Games and 2 World Cup</li>
+            <li>American Champion and Panamerican Champion</li>
+            <li>Sports Manager Junior FC, Spain</li>
+            <li>Coach and Coordination, Leiden, Netherlands</li>
+            <li>2 Champions Trophy</li>
+            <li>Head Coach and Tecnical Manager - Portuguese Hockey Federation</li>
+        </ul>
+
+    </div>
+
+    <div class="page" images="rvila-img">
+
+        <h1>Rodrigo Vila</h1>
+        <ul style="padding-left:15px;">
+            <li>175 International Matches with Argentina Team</li>
+            <li>2 Olympic Games and 2 World Cup</li>
+            <li>American and Panamerican Champion</li>
+            <li>Juniors Coach in Den Bosch, Netherlands</li>
+            <li>Coach ( Bco.Provincia, Argentina)</li>
+            <li>1 Champions Trophy</li>
+
+        </ul>
+
+    </div>
+
+    <div class="page" images="jvivaldi-img">
+        <h1>Juan Manuel Vivaldi</h1>
+        <ul style="padding-left:15px;">
+            <li>71 International Matches with Argentina National Team</li>
+            <li>1 Olympic Game and 1 World Cup</li>
+            <li>American and Panamerican Champion</li>
+            <li>Goalkeeper Trainer Den Bosch, Netherlands</li>
+            <li>Coach (Banco Provincia, Argentina)</li>
+            <li>2 Champions Trophy</li>
+        </ul>
+    </div>
+
+    <div class="page" images="tmaccormik-img">
+        <h1>Tom&aacute;s Mac Cormik</h1>
+        <ul style="padding-left:15px;">
+            <li>185 International Matches with Argentina Nacional Team</li>
+            <li>2 Olympic Games, 1 World Cup, 1Champion Trophy</li>
+            <li>American and Panamerican Champion</li>
+            <li>Coach of Younger Player's in Tilburg, Holland</li>
+            <li>Coach (Belgrano Athletic, Argentina)</li>
+        </ul>     
+    </div>
+
+    <div class="page" images="mvila-img">
+        <h1>Mat&iacute;as Vila</h1>
+        <ul style="padding-left:15px;">
+            <li>Argentina National Team Captain</li>
+            <li>230 International Matches with Argentina Nacional Team</li>
+            <li>2 Olympic Games, 2 World Cup, 3 Champions Trophy</li>
+            <li>American and Panamerican Champion</li>
+            <li>Coach of Younger player's in Tilburg, Holland</li>
+        </ul>
+    </div>
+
+    <div class="page" images="jesparis-img">
+        <h1>Juan Manuel Esparis</h1>
+        <ul style="padding-left:15px;">
+            <li>65 International Matches with Argentina Nacional Team</li>
+            <li>Assistant Coach of Argentina Lady's Nacional Team (Las Leonas)</li>
+            <li>American and Panamerican Champion</li>
+            <li>Coordinator (Belgrano Athletic, Argentina)</li>
+            <li>Physical Education Teacher</li>
+        </ul>
+
+    </div>
+<!--
+    <div class="page" images="fjeanneret-img">
+        <h1>Fabi&aacute;n Jeanneret</h1>
+        <ul style="padding-left:15px;">
+            <li>Argentina National Team Physical Trainer</li>
+            <li>Physical Trainer (1rst. Division Women Lomas Athletic, Argentina)</li>
+            <li>Physical Trainer (1rst. Division Men Lomas Atheltic, Argentina)</li>
+            <li>Physical Coordinator in Lomas Atheltic, Argentina</li>
+        </ul>
+    </div>
+-->
+
+    <div class="slider-controls">
+        <div style="float:left;width:80px;"><a class="back" href="javascript:;"><< go back</a></div>
+        <div id="page-counter">1 / 1</div>
+        <div style="float:right;width:80px;"><a class="next" href="javascript:;">see more >></a></div>
+    </div>
+
+</div>

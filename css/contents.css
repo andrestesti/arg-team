@@ -1,0 +1,179 @@
+#slider-contents {
+    position:				relative;
+    width:				100%;
+}
+
+#slider-contents .page {
+    color:                  #666666;
+    text-align:				justify;
+    line-height:			21px;
+}
+
+#slider-contents li {
+
+    /*list-style-image: url(../img/bullet.png);*/
+    text-indent: 0px;
+    list-style-type: circle;
+    list-style-image: url(../img/bocha.gif);
+    line-height:200%;
+
+}
+
+#slider-contents .page h1 {
+    color: #303545;
+    margin: 5px 0 5px 0;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: #526CD6;
+}
+
+#slider-contents .page p {
+    margin-bottom:			15px;
+}
+
+#slider-contents .slider-controls {
+    position:				absolute;
+    top:					396px;
+    left:					15px;
+    width:				399px;
+    /*	height:				26px;*/
+    background:				#eee;
+    border:				1px solid #ccc;
+    padding:				5px 10px 7px 10px;
+    text-align:				center;
+}
+
+* html #slider-contents .slider-controls {
+    width:				415px;
+}
+
+#slider-contents .slider-controls a {
+    color:				#555;
+    font-size:				11px;
+    text-decoration:			none;
+    /*	noFocusLine:			expression(this.onFocus=this.blur());     IE */
+    -moz-outline-style:		none;                                    /* FF */
+}
+
+#slider-contents .slider-controls .back {
+    float:				left;
+}
+
+#slider-contents .slider-controls .next {
+    float:				right;
+}
+
+#slider-contents #page-counter {
+    float: left;
+    width: 239px;
+    color: #1445A0;
+    font-size: 11px;
+}
+
+#contact {
+    position:				relative;
+    /*margin:				10px 20px;*/
+}
+
+#contact textarea {
+    width:				100%;
+    height:				170px;
+    margin-top:			2px;
+}
+
+#contact p {
+    font-size:				13px;
+    margin-bottom:			7px;
+}
+
+#contact p .input-text {
+    width:				100%;
+    height:				20px;
+    margin-top:			2px;
+}
+
+#contact .box {
+    background:			#eee;
+    border:				1px solid #ccc;
+    width:              100%;
+    text-align:         right;
+}
+
+#contact #buttons {
+    position:				relative;
+    margin-top:				13px;
+    padding:				2px;
+}
+
+* html #contact #buttons {
+    margin-top:				16px;
+}
+
+#contact #buttons input {
+    position:				relative;
+    /*left:					340px;*/
+    width:				64px;
+}
+
+.error {
+    background:				#fff0e8;
+    color:				#900;
+    border:				1px solid #a00;
+}
+
+.orange {
+    border:				1px solid #f90;
+}
+
+.grey {
+    border:				1px solid #999;
+}
+
+#working {
+    position:				absolute;
+    left:					172px;
+    top:					162px;
+    display:				none;
+}
+
+/* Popup Productos y Servicios */
+
+#popupServiciosProductos {
+    display:				none;
+    position:				relative;
+    float:				none;
+    top:					1px;
+    left:					658px;
+    width:				181px;
+    background:				#DFDDD5;
+    z-index:				9999999;
+}
+
+#popupServiciosProductos li {
+    display:				block;
+    list-style:				none;
+    border-bottom:			1px solid #808080;
+    border-left:			1px solid #808080;
+    border-right:			1px solid #808080;
+}
+
+#popupServiciosProductos li.hover {
+    background:				#ECEAE2;
+}
+
+#popupServiciosProductos li.hover a {
+    color:				#333;
+}
+
+#popupServiciosProductos li a {
+    display:				block;
+    padding:				5px 10px;
+    color:				#808080;
+    text-decoration:			none;
+}
+
+#powered{
+    text-align: center;
+    font-style: italic;
+    text-decoration: none;
+}

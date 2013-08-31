@@ -1,0 +1,8 @@
+<ul id="popupServiciosProductos">
+    <li><a href="javascript: serviciosProductos(1);">Consultor&iacute;a</a></li>
+    <li><a href="javascript: serviciosProductos(2);">Cl&iacute;nicas</a></li>
+    <li><a href="javascript: serviciosProductos(3);">Desarrollo</a></li>
+    <li><a href="javascript: serviciosProductos(4);">Formaci&oacute;n</a></li>
+    <li><a href="javascript: serviciosProductos(5);">Viajes Deportivos</a></li>
+    <li><a href="javascript: serviciosProductos(6);">Organizaci&oacute;n de Eventos</a></li>
+</ul>

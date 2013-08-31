@@ -1,0 +1,110 @@
+<div id="slider-contents">
+
+    <div class="page" images="inicio-img">
+        <h1>Nuestros Servicios y Productos</h1>
+
+        <p>En estos tiempos en que el deporte alcanz&oacute; una Profesionalizaci&oacute;n muy elevada hace falta encontrar soluciones en todos los campos. Por esto, contamos con una amplia gama de productos y servicios aplicados al mundo del Deporte.</p>
+    </div>
+
+    <div class="page" images="consultoria-img">
+        <h1>Consultor&iacute;a</h1>
+
+        <p>Brindamos Asesoramientos en todas las &aacute;reas:</p>
+
+        <ul style="padding-left:15px;">
+            <li>Federaciones y Clubes</li>
+            <li>Organizaci&oacute;n de Eventos</li>
+            <li>Planificaciones Deportivas Anuales</li>
+            <li>Remodelaci&oacute;n de Estructuras Internas en Clubes</li>
+            <li>Gesti&oacute;n de Equipos de todos los niveles</li>
+            <li>Contrataci&oacute;n de Jugadores</li>
+            <li>Giras Deportivas</li>
+            <li>Desarrollo del deporte de Menores</li>
+            <li>Preparaci&oacute;n f&iacute;sica</li>
+            <li>Cursos y Charlas sobre Preparaci&oacute;n F&iacute;sica</li>
+        </ul>
+    </div>
+
+    <div class="page" images="clinicas-img">
+        <h1>Cl&iacute;nicas</h1>
+
+        <p>Organizamos Cl&iacute;nicas de Deporte a medida:</p>
+
+        <ul style="padding-left:15px;">
+            <li>Campus de 4 a 6 d&iacute;as de duraci&oacute;n</li>
+            <li>Cl&iacute;nicas de 1, 2 o 3 d&iacute;as de duraci&oacute;n</li>
+            <li>Demostraciones de 2 a 4 horas de duraci&oacute;n</li>
+            <li>Productos para Federaciones, Clubes o Colegios</li>
+            <li>Entrenamientos Espec&iacute;ficos (Arqueros,Delanteros,etc)</li>
+            <li>Utilizaci&oacute;n de nuevas tecnolog&iacute;as</li>
+            <li>Entrenamientos basados en m&eacute;todos modernos</li>
+            <li>Alto Rendimiento, Niveles Iniciales y Formativos</li>
+            <li>Running Clinic monitorizadas por GPS</li>
+        </ul>
+    </div>
+
+    <div class="page" images="desarrollo-img">
+        <h1>Desarrollo</h1>
+        <p>Contamos con expertos en el Desarrollo del Deporte:</p>
+        <ul style="padding-left:15px;">
+            <li>Organizaci&oacute;n de Estructuras Deportivas</li>
+            <li>Coordinaci&oacute;n Externa o Interna de Clubes</li>
+            <li>Gesti&oacute;n Deportiva</li>
+            <li>Planificaci&oacute;n de Entrenamientos Anuales</li>
+            <li>Planificaci&oacute;n de la Preparaci&oacute;n F&iacute;sica</li>
+            <li>Desarrollo de Estructuras y Equipos de Menores</li>
+        </ul>
+    </div>
+
+    <div class="page" images="formacion-img">
+        <h1>Formaci&oacute;n</h1>
+
+        <p>Formaci&oacute;n continuada para todos los niveles:</p>
+        <ul style="padding-left:15px;">
+            <li>Charlas para Entrenadores</li>
+            <li>Cursos para Entrenadores</li>
+            <li>Formaciones Peri&oacute;dicas para Federaciones o Clubes
+            (Anuales, Semestrales, Trimestrales, Mensuales)</li>
+            <li>Seguimiento en el desarrollo de los entrenadores</li>
+            <li>Entrenamientos Mentales</li>
+        </ul>
+    </div>
+
+    <div class="page" images="viajes-deportivos-img">
+        <h1>Viajes Deportivos</h1>
+        <p>Go 2 Ar Travel, es la soluci&oacute;n a todo lo relacionado con los Viajes Deportivos. Ponemos a disposici&oacute;n de los clientes, diferentes alternativas dentro y fuera de la Argentina. Todo esto sin descuidar la Calidad basada en nuestros contactos y experiencia.</p>
+        <ul style="padding-left:15px;">
+            <li>Giras Deportivas desde y hacia Argentina</li>
+            <li>Viajes de Federaciones, Grupales e individuales</li>
+            <li>Viajes confeccionados a la medida de cada cliente</li>
+            <li>Organizaci&oacute;n de partidos amistosos en el Exterior</li>
+            <li>Equipos de Alto Nivel, Clubes, Universidades y Escuelas</li>
+            <li>Combinaci&oacute;n entre Deporte, Paseos y Diversi&oacute;n</li>
+        </ul>
+    </div>
+
+
+    <div class="page" images="eventos-img">
+        <h1>Organizaci&oacute;n de Eventos</h1>
+        <p>Tenemos la capacidad de organizar:</p>
+        <ul style="padding-left:15px;">
+            <li>Torneos Nacionales e Internacionales</li>
+            <li>Torneos Internos</li>
+            <li>Inauguraciones de Canchas</li>
+            <li>Partidos Especiales</li>
+            <li>Salidas para Federaciones y Clubes</li>
+            <li>Organizaci&oacute;n de Cenas y Fiestas</li>
+            <li>Eventos Corporativos</li>
+            <li>Family Day</li>
+            <li>Actividades Vivenciales</li>
+            <li>Acciones socio-human&iacute;sticas</li>
+        </ul>
+    </div>
+
+    <div class="slider-controls">
+        <div style="float:left;width:80px;"><a class="back" href="javascript:;"><< atr&aacute;s</a></div>
+        <div id="page-counter">1 / 1</div>
+        <div style="float:right;width:80px;"><a class="next" href="javascript:;">ver m&aacute;s >></a></div>
+    </div>
+
+</div>

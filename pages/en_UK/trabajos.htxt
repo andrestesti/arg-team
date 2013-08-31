@@ -1,0 +1,10 @@
+<div id="slider-contents">
+
+        <h1>COMING SOON</h1>
+    <div class="slider-controls">
+        <div style="float:left;width:80px;"><a class="back" href="javascript:;"><< atr&aacute;s</a></div>
+        <div id="page-counter">1 / 1</div>
+        <div style="float:right;width:80px;"><a class="next" href="javascript:;">ver m&aacute;s >></a></div>
+    </div>
+
+</div>

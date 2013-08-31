@@ -1,0 +1,21 @@
+<table id="matrix" style="width:100%; height:100%;">
+	<tr>
+		<td><img id="mtx0"/></td>
+		<td><img id="mtx1"/></td>
+		<td><img id="mtx2"/></td>
+	</tr>
+	<tr>
+		<td><img id="mtx3"/></td>
+		<td><img id="mtx4"/></td>
+		<td><img id="mtx5"/></td>
+	</tr>
+	<tr>
+		<td><img id="mtx6"/></td>
+		<td><img id="mtx7"/></td>
+		<td><img id="mtx8"/></td>
+	</tr>
+</table>
+
+<script type="text/javascript">
+	initMatrix();
+</script>

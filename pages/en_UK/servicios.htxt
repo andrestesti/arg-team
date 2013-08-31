@@ -1,0 +1,108 @@
+<div id="slider-contents">
+
+    <div class="page" images="inicio-img">
+        <h1>Services and Products</h1>
+
+        <p>In these times when sports reached very high levels of professionalization finding solutions in all fields is required.
+Therefore, we have a wide range of products and services applied to hockey world.</p>
+    </div>
+
+    <div class="page" images="consultoria-img">
+        <h1>Consultancy</h1>
+
+        <p>We advice on all areas:</p>
+
+        <ul style="padding-left:15px;">
+            <li>Federations and Clubs</li>
+            <li>Events Organizations</li>
+            <li>Sports Annual Plannings</li>
+            <li>Remodeling of internal structures in clubs</li>
+            <li>Team managment for all levels</li>
+            <li>Contracting players</li>
+            <li>Sport Tours</li>
+            <li>Hockey development for Younger Team's</li>
+            <li>Physical Training</li>
+            <li>Physical Training Courses and Chats</li>
+        </ul>
+    </div>
+
+    <div class="page" images="clinicas-img">
+        <h1>Clinics</h1>
+
+        <p>We organize Taylor made Hockey Clinics for everyone:</p>
+
+        <ul style="padding-left:15px;">
+            <li>4 a 6 days - Campus</li>
+            <li>Clinics of 1, 2 or 3 days</li>
+            <li>Demostration of 2 to 4 hours</li>
+            <li>Products for Federations, Clubs or Colleges</li>
+            <li>Specific Trainings (Goalkeeper- Forward's-Defender's, etc)</li>
+            <li>New technologies</li>
+            <li>Modern methods trainings based</li>
+            <li>High performance, Inicial and development levels</li>
+            <li>Running Clinics monitored by GPS</li>
+        </ul>
+    </div>
+
+    <div class="page" images="desarrollo-img">
+        <h1>Development</h1>
+        <p>We have experts staff for the hockey development:</p>
+        <ul style="padding-left:15px;">
+            <li>Sport Structures Organization</li>
+            <li>Internal and External Clubs Coordination</li>
+            <li>Sport Management</li>
+            <li>Annual Trainings planification</li>
+            <li>Physical Trainings Planification</li>
+            <li>Structure and Junior teams development</li>
+        </ul>
+    </div>
+
+    <div class="page" images="formacion-img">
+        <h1>Coaching</h1>
+
+        <p>Continuing education for all the levels:</p>
+        <ul style="padding-left:15px;">
+            <li>Coach Conferences</li>
+            <li>Coach Courses</li>
+            <li>Regular training for federation and clubs (annual, biannual, quarterly or monthly)</li>
+            <li>Coaches Development Control</li>
+            <li>Mental Trainings</li>
+        </ul>
+    </div>
+
+    <div class="page" images="viajes-deportivos-img">
+        <h1>Sport Travels</h1>
+        <p>Go 2 Ar Travel is the solution in all related with Sport trips
+We provide our customers different alternatives within and outside Argentina.
+All this without neglecting the quality based on our experience and contacts.</p>
+        <ul style="padding-left:15px;">
+            <li>Sport Tours to and from Argentina</li>
+            <li>Sport Tours for Federations, Group's or single's</li>
+            <li>Tailor made trips to each customer</li>
+            <li>Friendly matches organization outside of Argentina</li>
+            <li>High performane teams, Clubs, Universities, Schools</li>
+            <li>Combinating sports, travelling and leisure activities</li>
+        </ul>
+    </div>
+
+
+    <div class="page" images="eventos-img">
+        <h1>Events Organization</h1>
+        <p>We have the capacity to organize:</p>
+        <ul style="padding-left:15px;">
+            <li>National and International tournaments</li>
+            <li>Internal Tournaments</li>
+            <li>Pitche's inagurations</li>
+            <li>Special Matches</li>
+            <li>Federations and Clubs Tours</li>
+            <li>Parties and Dinners Organization</li>
+        </ul>
+    </div>
+
+    <div class="slider-controls">
+        <div style="float:left;width:80px;"><a class="back" href="javascript:;"><< go back</a></div>
+        <div id="page-counter">1 / 1</div>
+        <div style="float:right;width:80px;"><a class="next" href="javascript:;">see more >></a></div>
+    </div>
+
+</div>

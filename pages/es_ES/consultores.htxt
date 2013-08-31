@@ -1,0 +1,96 @@
+<div id="slider-contents">
+
+    <div class="page" images="epaulon-img">
+        <h1>Ezequiel Paulon</h1>
+        <ul style="padding-left:15px;">
+
+            <li>200 Partidos Internacionales con Argentina</li>
+            <li>2 Juegos Ol&iacute;mpicos y 2 Copas del Mundo</li>
+            <li>Campe&oacute;n de Am&eacute;rica y Panamericano</li>
+            <li>Director Deportivo del Junior FC, Espa&ntilde;a</li>
+            <li>Entrenador y Coordinador en Leiden, Holanda</li>
+            <li>2 Champions Trophy</li>
+            <li>Head Coach y Director T&eacute;cnico - Federaci&oacute;n Portuguesa de Hockey</li>
+        </ul>
+
+    </div>
+
+    <div class="page" images="rvila-img">
+
+        <h1>Rodrigo Vila</h1>
+        <ul style="padding-left:15px;">
+            <li>175 Partidos Internacionales con Argentina</li>
+            <li>2 Juegos Ol&iacute;mpicos y 2 Copas del Mundo</li>
+            <li>Campe&oacute;n de Am&eacute;rica y Panamericano</li>
+            <li>Entrenador de Menores en Den Bosch, Holanda</li>
+            <li>Entrenador de Banco Provincia, Argentina</li>
+            <li>Un Champions Trophy</li>
+
+        </ul>
+
+    </div>
+
+    <div class="page" images="jvivaldi-img">
+        <h1>Juan Manuel Vivaldi</h1>
+        <ul style="padding-left:15px;">
+            <li>71 Partidos Internacionales con Argentina</li>
+            <li>1 Juego Ol&iacute;mpico y 1 Copa del Mundo</li>
+            <li>Campe&oacute;n de Am&eacute;rica y Panamericano</li>
+            <li>Entrenador de Arqueros en Den Bosch, Holanda</li>
+            <li>Entrenador de Banco Provincia, Argentina</li>
+            <li>2 Champions Trophy</li>
+        </ul>
+    </div>
+
+    <div class="page" images="tmaccormik-img">
+        <h1>Tom&aacute;s Mac Cormik</h1>
+        <ul style="padding-left:15px;">
+            <li>185 Partidos Internacionales con Argentina</li>
+            <li>2 Juegos Ol&iacute;mpicos, 1 Copa del Mundo y 1 Champions Trophy</li>
+            <li>Campe&oacute;n de Am&eacute;rica y Panamericano</li>
+            <li>Entrenador de Menores en Tilburg, Holanda</li>
+            <li>Entrenador de Belgrano Athletic, Argentina</li>
+        </ul>     
+    </div>
+
+    <div class="page" images="mvila-img">
+        <h1>Mat&iacute;as Vila</h1>
+        <ul style="padding-left:15px;">
+            <li>Capit&aacute;n del Seleccionado Argentino Masculino</li>
+            <li>230 Partidos Internacionales Con Argentina</li>
+            <li>2 Juegos Ol&iacute;mpicos, 2 Copas del Mundo y 3 Champions Trophy</li>
+            <li>Campe&oacute;n de Am&eacute;rica y Panamericano</li>
+            <li>Entrenador de Menores de Tilburg, Holanda</li>
+        </ul>
+    </div>
+
+    <div class="page" images="jesparis-img">
+        <h1>Juan Manuel Esparis</h1>
+        <ul style="padding-left:15px;">
+            <li>65 Partidos Internacionales con Argentina</li>
+            <li>Assistant Coach de Las Leonas, Argentina</li>
+            <li>Campe&oacute;n Am&eacute;rica y Panamericano</li>
+            <li>Coordinador de Belgrano Athletic, Argentina</li>
+            <li>Profesor de Educaci&oacute;n F&iacute;sica</li>
+        </ul>
+
+    </div>
+<!--
+    <div class="page" images="fjeanneret-img">
+        <h1>Fabi&aacute;n Jeanneret</h1>
+        <ul style="padding-left:15px;">
+            <li>Preparador F&iacute;sico del Seleccionado Argentino Masculino</li>
+            <li>Preparador F&iacute;sico 1era. Div. Damas Lomas Athletic, Argentina</li>
+            <li>Preparador F&iacute;sico 1era. Div. Caballeros Lomas Athletic, Argentina</li>
+            <li>Coordinador General PRP. F&iacute;sica Club Lomas Athletic, Argentina</li>
+        </ul>
+    </div>
+-->
+
+    <div class="slider-controls">
+        <div style="float:left;width:80px;"><a class="back" href="javascript:;"><< atr&aacute;s</a></div>
+        <div id="page-counter">1 / 1</div>
+        <div style="float:right;width:80px;"><a class="next" href="javascript:;">ver m&aacute;s >></a></div>
+    </div>
+
+</div>

@@ -1,0 +1,30 @@
+<div id="slider-contents">
+
+	<div class="page" images="inicio-img">
+		<h1>La Empresa</h1>
+        <p>
+ARG-TEAM es una Consultora Deportiva pensada para ofrecer a sus clientes, soluciones en todas las actividades relacionadas con el mismo. La idea de crear esta consultora surgi&oacute; del ex-jugador y entrenador Internacional Ezequiel Paul&oacute;n, que luego de su experiencia en diferentes Pa&iacute;ses, sinti&oacute; la necesidad de ofrecer cobertura en todas las &aacute;reas del Deporte. Por esto, la empresa cuenta con diferentes productos y servicios, para que quienes contacten con nosotros, encuentre una respuesta a sus necesidades con el mayor profesionalismo.
+        </p>
+		<h1>La Misi&oacute;n</h1>
+        <p>
+Combinar nuestro conocimiento y experiencia, de manera tal que podamos ofrecer productos y servicios que se ajusten a cada cliente. Esto, junto a la utilizaci&oacute;n de modernos m&eacute;todos de trabajo y nuevas tecnolog&iacute;as, har&aacute; que nuestros usuarios puedan alcanzar todos sus objetivos.</p>
+    </div>
+	<div class="page" images="inicio-img">
+		<h1>Nuestros Valores</h1>
+		<ul style="padding-left:15px;">
+                    <li>Trabajo en Equipo</li>
+                    <li>Profesionalismo</li>
+                    <li>Nuevas Tecnologías</li>
+                    <li>Productos Personalizados</li>
+                    <li>Experiencias Exitosas</li>
+                    <li>Alto Nivel</li>
+		</ul>
+	</div>
+
+	<div class="slider-controls">
+		<div style="float:left;width:80px;"><a class="back" href="javascript:;"><< atr&aacute;s</a></div>
+		<div id="page-counter">1 / 1</div>
+		<div style="float:right;width:80px;"><a class="next" href="javascript:;">ver m&aacute;s >></a></div>
+	</div>
+
+</div>
