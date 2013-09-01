@@ -60,7 +60,7 @@ $campos = array(
 );
 
 
-$to = 'contact@arg-team.com';
+$to = 'contact@arg-team.com, flavionowak@yahoo.com.ar';
 
 $resultado = array();
 
